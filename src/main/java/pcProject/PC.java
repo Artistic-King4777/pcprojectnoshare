@@ -42,8 +42,8 @@ public class PC {
     public String toString() {
         return "PC{" +
                 "motherboard=" + motherboard +
-                ", monitor=" + monitor +
-                ", cases=" + cases +
+                ", \n monitor=" + monitor +
+                ", \n cases=" + cases +
                 '}';
     }
 
