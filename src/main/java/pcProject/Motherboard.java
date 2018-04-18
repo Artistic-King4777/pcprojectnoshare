@@ -19,11 +19,6 @@ public class Motherboard {
     public void loadProgram(String programName){
         System.out.println(programName + " is now running.");
     }
-//programName is a parameter what is tht
-
-//    public String programName(){
-//        return "Rainbow Processor 6.5 GHz";
-//    }
 
 
     public String getModel() {
